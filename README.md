@@ -29,8 +29,8 @@ This is in the style of a text adventure game, so you choose options using the n
 * launch.json          - contains the script for launching the program 
 
 
-- **START: Orphanage Bedroom**
-- │
+ **START: Orphanage Bedroom**
+ │
 - ├── Complete morning routine?
 - │   ├── Yes → Find hidden note from Ellie ("Avoid top right corner")
 - │   └── No  → Guards storm in → Ally (Ellie) dies → BAD ROUTE
