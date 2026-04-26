@@ -30,27 +30,27 @@ This is in the style of a text adventure game, so you choose options using the n
 
 
  **START: Orphanage Bedroom**
- │
+- │
 - ├── Complete morning routine?
 - │   ├── Yes → Find hidden note from Ellie ("Avoid top right corner")
 - │   └── No  → Guards storm in → Ally (Ellie) dies → BAD ROUTE
 - │
 - ↓
-- **Corridor Glass Cleaning**
+ **Corridor Glass Cleaning**
 - │
 - ├── Clean top-right corner?
 - │   ├── Yes → Memory glitch (recursive error) + flashback + unlock password
 - │   └── No  → You clean normally → Ellie gets arrested but mouths password
 - │
 - ↓
-- **Training Facility**
+ **Training Facility**
 - │
 - ├── Ellie helps mid-battle
 - │   ├── Hide in vent → Find first diary + unlock secret routes
 - │   └── Keep fighting → Lose chance to escape
 - │
 - ↓
-- **Banquet Hall (if alive)**
+ **Banquet Hall (if alive)**
 - │
 - - ├── Respond to NPC?
 - │   ├── Play along → System is suspicious
@@ -77,7 +77,7 @@ This is in the style of a text adventure game, so you choose options using the n
 -     └── Cancel → Nothing
 - │
 - ↓
-- **Final Stage: Server Room**
+ **Final Stage: Server Room**
 -  │
 -  ├── With password + Ellie alive?
 -  │   ├── Enter password
